@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wealthDistributeModule", "wealthDistributeModule.vcxproj", "{71A96426-05B3-3DDF-8318-510E35C4F225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A96426-05B3-3DDF-8318-510E35C4F225}.Debug|x86.ActiveCfg = Debug|Win32
+		{71A96426-05B3-3DDF-8318-510E35C4F225}.Debug|x86.Build.0 = Debug|Win32
+		{71A96426-05B3-3DDF-8318-510E35C4F225}.Release|x86.ActiveCfg = Release|Win32
+		{71A96426-05B3-3DDF-8318-510E35C4F225}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C758BE4-F162-4AFB-8B7D-2201AFB59F77}
+	EndGlobalSection
+EndGlobal
